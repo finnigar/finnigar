@@ -1,7 +1,11 @@
 # Ryan Finnigan 
+
 35 Hedgestone Crescent
+
 Winnipeg, MB, R2N 3X1
+
 finnigar@myumanitoba.ca
+
 204-805-1274
 
 # Technical Skills
