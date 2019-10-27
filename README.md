@@ -64,12 +64,14 @@ Now that you know the basics, you need to convert your résumé to Markdown. To 
    * One recommendation for a text editor is [Atom](https://atom.io/). This is because it works well with both Markdown and Github, and it is relatively simple to use.
    * However, if you try using Atom and do not like it, or do not want to download a text editor, you do not have to use it. 
    * See the "Additional Resources" section for some more recommendations of text editors.
+
 2. **Edit your document.**
     * Now that you have chosen your text editor, you must now edit your document in Markdown format. 
     * Open your text editor.
     * Open a new document in your editor, so that you can begin writing your document.
     * **In some cases, there may be some text here supplied by the editor itself. If this is the case, just delete the text, as it is not needed**
     * Type your document in the space, being sure to use Markdown formatting.
+
 3. **Save your document**   
   * **Saving your document using a downloaded text editor**
     * Find the button that says "Save". Usually, this is under the "File" menu. 
