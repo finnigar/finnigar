@@ -42,7 +42,7 @@ This instruction set will provide information on how to host your résumé to Gi
     * To use boldface, put two astericks "*", then begin typing the word. **Do not put a space after the astericks.** Then, type the content you would like in bold, and then put two astericks at the end of the content you would like bolded. **Do not put a space before the astericks at the end.**  
     * To use _italicized_ font, use the "_" symbol (underscore). Put an underscore symbol, then type the content you would like italicized, then put a underscore to end the italicized content. **Similar to with bold, do not put a space after the first underscore or before the last underscore**  
  
- 3. **Bulleted and Numbered Lists**  
+ 3. **Bulleted and Numbered Lists**    
    * To use lists, they must start on a new line. Also, each item of the list must start on a new line.  
    * To create a new line, put two spaces after the previous line, and hit enter.   
    * Put a * at the beginning of the next line. This will create the first item in a **bulleted** list.
@@ -65,9 +65,9 @@ Now that you know the basics, you need to convert your résumé to Markdown. To 
   * However, if you try using Atom and do not like it, or do not want to download a text editor, you do not have to use it. 
   * See the "Additional Resources" section for some more recommendations of text editors.
 2. **Edit your document.**
-  * Now that you have chosen your text editor, you must now edit your document in Markdown format. 
-  * Open your text editor.
-  * Open a new document in your editor, so that you can begin writing your document.
+   * Now that you have chosen your text editor, you must now edit your document in Markdown format. 
+   * Open your text editor.
+   * Open a new document in your editor, so that you can begin writing your document.
    * **In some cases, there may be some text here supplied by the editor itself. If this is the case, just delete the text, as it is not needed**
   * Type your document in the space, being sure to use Markdown formatting.
 3. **Save your document**   
@@ -77,11 +77,11 @@ Now that you know the basics, you need to convert your résumé to Markdown. To 
    * Make sure when you name your document, you save it as a **.md file.**
    * **If you do not save it as a .md file, and save it as something else (for example, .docx), it will not be saved in Markdown format properly. Therefore, you will not be able to host your document on GitHub Pages.**  
  * **Saving your document using an online text editor**
-    * Click on the "Export As" button
-     * Each editor might call it something slightly different, like "Export As", or "Export", or "Download".
-    * Click on the .md file type
-     * **Make sure that you export it as a .md file. This is the file type that will save it in Markdown format.** 
-    * Your document should now download, and should appear in your "Downloads" folder on your computer.
+     * Click on the "Export As" button
+      * Each editor might call it something slightly different, like "Export As", or "Export", or "Download".
+     * Click on the .md file type
+      * **Make sure that you export it as a .md file. This is the file type that will save it in Markdown format.** 
+     * Your document should now download, and should appear in your "Downloads" folder on your computer.
     
   Your résumé is now converted to Markdown, and you are ready to host it on GitHub Pages!
   
