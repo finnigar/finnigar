@@ -1,6 +1,5 @@
 theme: jekyll-theme-time-machine
 title: Resume for Ryan Finnigan, COMP 3040
-.page-header { 
-  color: #FF0000
- }
+color: #FF0000
+
 
