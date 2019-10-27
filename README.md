@@ -19,4 +19,4 @@ This instruction set will provide information on how to host your résumé to Gi
    3. Click Select a Plan once you have finished filling in the fields. 
    4. Choose a plan that is right for you. You can create a free account, or, if you wish, you can choose a Pro account, which costs $7 USD per month.  
       * You will be able to do all required steps to host your résumé using a free account.
-   5. You will then arrive at a page that looks something like ![this](https://github.com/finnigar/finnigar/issues/1#issue-512997241)
+   5. You will then arrive at a page that looks something like this: ![welcome to github](https://user-images.githubusercontent.com/57049086/67638774-93dd4900-f8b6-11e9-87b9-acaa70c4e041.JPG)
