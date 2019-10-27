@@ -1,9 +1,4 @@
 theme: jekyll-theme-time-machine
 title: Resume for Ryan Finnigan, COMP 3040
 
-<p>{{ page.date }} - Written by {{ page.author }}</p>
-
-{ 
-page.date = "October 29, 2019"
-page.author = "Ryan Finnigan"
-}
+"Written by Ryan Finnigan"
