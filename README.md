@@ -113,7 +113,16 @@ Now that you know the basics, you need to convert your résumé to Markdown. To 
       * It should look something like shown below, just with your file(s) in it.
           ![home](https://user-images.githubusercontent.com/57049086/67642439-d5cbb680-f8d9-11e9-82fc-9e2adc788772.JPG)
         * If you are not at this page, click the "Code" button or click on the name of your repository (the part to the right of the "/" in the above image) to return to it.
-      * Click the name of your résumé. This will allow you to edit your résumé. You should see something like this: 
+      * Click the name of your résumé. You should see something like this: ![pen](https://user-images.githubusercontent.com/57049086/67643581-08c87700-f8e7-11e9-9280-8d5bdaeee53d.JPG)
+      * Click on the pen. This will allow you to edit the document. 
+      * Click in the box where the name of your file is.
+      * Rename your file from it's current name to the name **index.md**. 
+        * It must be in this format to publish it on GitHub Pages.
+      * Commit your changes.
+ 3. **Publishing your Résumé to GitHub Pages**  
+  Your résumé is now ready to be hosted on GitHub Pages. To host it on GitHub Pages, follow these steps:  
+  1. Click on the "Settings" tab
+
 
     
 
