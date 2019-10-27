@@ -1,4 +1,4 @@
 # How to Host Your Résumé on GitHub Pages
 
 ## Intended Audience
-This instruction set is intended for any audience.
+This instruction set will provide information on how to host your résumé to GitHub Pages. It will help the reader understand how to use tools that are required to do so. These tools include Markdown, GitHub, and GitHub Pages. These instructions are intended for a beginner audience. That is, one does not have to have any experience with any of the tools that will be described in these instructions.
