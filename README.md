@@ -29,3 +29,20 @@ This instruction set will provide information on how to host your résumé to Gi
   8. Congratulations! Your GitHub account is now set up and ready for use.
   
 #### B. Learn Markdown
+ Now that you have created a GitHub account, you will need to learn Markdown! GitHub uses a tool called (GitHub Flavoured) Markdown for formatting/editing documents. This is a useful tool for editing plain text documents, but, it is likely different than tools you may be used to, such as Microsoft Word, WordPad, or other similar tools. There are a lot of features Markdown offers, but here are a few of the basics which you may find useful in your résumé:   
+ 1. **Headings:**   
+   * There are 6 levels of headings in Markdown. Level 1 is equivalent to Heading 1 in Word, or the largest heading. Level 2 is one level smaller (Heading 2 in Word), and so on.   
+   * To use headings, begin the line with a "#".  
+   * Use the same number of "#"s as you wish you heading level to be. For example, if you want a Level 3 heading, you would begin the line with "###".    
+ 2. **Bold and _Italic_ Fonts**  
+   * In your resume, you may wish to emphasise certain parts by using boldface, or using italics.  
+   * To use boldface, put two astericks "*", then begin typing the word. **Do not put a space after the astericks.** Then, type the content you would like in bold, and then put two astericks at the end of the content you would like bolded. **Do not put a space before the astericks at the end.**  
+   * To use _italicized_ font, use the "_" symbol (underscore). Put an underscore symbol, then type the content you would like italicized, then put a underscore to end the italicized content. **Similar to with bold, do not put a space after the first underscore or before the last underscore**  
+ 
+ 3. Bulleted and Numbered Lists  
+ * To use lists, they must start on a new line. Also, each item of the list must start on a new line.  
+ * To create a new line, put two spaces after the previous line, and hit enter.   
+ * Put a * at the beginning of the next line. This will create the first item in a **bulleted** list.   
+ * Put two spaces at the end of the line. 
+ * Click Enter, and repeat the process for every other item in the list. 
+ * Enter a number instead of a * if you wish to use numbered lists. Note that the number should have a period after it. For example, do not start the line as "1", but rather as "1."
