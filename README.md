@@ -42,7 +42,9 @@ This instruction set will provide information on how to host your résumé to Gi
  3. Bulleted and Numbered Lists  
  * To use lists, they must start on a new line. Also, each item of the list must start on a new line.  
  * To create a new line, put two spaces after the previous line, and hit enter.   
- * Put a * at the beginning of the next line. This will create the first item in a **bulleted** list.   
+ * Put a * at the beginning of the next line. This will create the first item in a **bulleted** list.
+ * Put a space after the *, then begin typing the content of the line.
  * Put two spaces at the end of the line. 
  * Click Enter, and repeat the process for every other item in the list. 
- *Enter a number instead of a * if you wish to use numbered lists. Note that the number should have a period after it. For example, do not start the line as "1", but rather as "1."
+ * Enter a number instead of a * if you wish to use numbered lists. Note that the number should have a period after it. For example, do not start the line as "1", but rather as "1."
+ * 
