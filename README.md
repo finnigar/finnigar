@@ -90,6 +90,7 @@ Now that you know the basics, you need to convert your résumé to Markdown. To 
   ### 3. **Hosting your Résumé on GitHub Pages**
   Now that you have a Markdown formatted résumé, the next step is to host it on GitHub Pages. In order to do so, there are a few steps you need to follow: 
    1. **Upload Your Résumé to Your GitHub Repostitory**  
+    * Test 12345 Test
     * Go to your Github account/repository which you created earlier.   
     * Since you have not uploaded anything yet, you should see a screen which looks something like this:   
     *  Click on the link that says "upload a new document." This will allow you to choose a file from your computer.  
