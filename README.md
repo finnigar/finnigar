@@ -19,4 +19,4 @@ This instruction set will provide information on how to host your résumé to Gi
    3. Click Select a Plan once you have finished filling in the fields. 
    4. Choose a plan that is right for you. You can create a free account, or, if you wish, you can choose a Pro account, which costs $7 USD per month.  
       * You will be able to do all required steps to host your résumé using a free account.
-   5. You will then arrive at a page that looks something like ![this]("C:\Users\rmfin\Documents\University Assignments\Third Year\COMP 3040\Assignment Hand In\Assignment 2\welcome to github.JPG")  
+   5. You will then arrive at a page that looks something like ![this](C:\Users\rmfin\Documents\University Assignments\Third Year\COMP 3040\Assignment Hand In\Assignment 2\welcome to github.JPG)  
