@@ -96,5 +96,11 @@ Now that you know the basics, you need to convert your résumé to Markdown. To 
     * Click on the link that says "upload a new document." This will allow you to choose a file from your computer
     * Find where you saved your document on your computer.
     * Double-click on the document you wish to upload, and it will upload. 
-    * Confirm
+    * Confirm by clicking "commit changes." 
+     * Whenever you want to "save" your changes on GitHub, you need to confirm it.
+     * GitHub calls this "commit changes."
+     * In the box, you can choose to add a message that describes what changes you made. 
+     * This is not necessary, but it can be helpful to help you remember what changes you made.
+     * If you don't type anything in the box, you will get the default message that describes your action.
+     * The commit changes box should look something like this: 
 
