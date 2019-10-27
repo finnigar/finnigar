@@ -26,7 +26,7 @@ This instruction set will provide information on how to host your résumé to Gi
           
    6. Check your email, and click on the link in the email from GitHub to verify your email. **This is important, as you will not be able to proceed in creating your account unless you verify your email address. If your email address is invalid, or you do not have an email, you will not be able to continue creating an account. Also, if you do not see the email, check your spam/junk folder, as it may have gone into there.**
   7. Once your email was verified, create a new repository by entering a name for it, and then clicking submit. Your repository will be where you store your files. **Note: On the page, it will give you the option of choosing a public or private repository. You can choose either. However, if you would like to use GitHub Pages, you either need to have a public account, or, you must have a GitHub Pro account (essentially, pay $7 USD per month for your account).**
-  ![Create new repository](![create_new_repos](https://user-images.githubusercontent.com/57049086/67639423-6ba51880-f8bd-11e9-9bfd-d7cf7545511d.JPG)
+  ![Create new repository](https://user-images.githubusercontent.com/57049086/67639423-6ba51880-f8bd-11e9-9bfd-d7cf7545511d.JPG)
 
   8. Congratulations! Your GitHub account is now set up and ready for use.
   
