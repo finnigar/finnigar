@@ -124,7 +124,8 @@ Now that you know the basics, you need to convert your résumé to Markdown. To 
   1. Click on the "Settings" tab. This is located near the top of the page on the right hand side, underneath the buttons that say "Unwatch", "Star", and "Fork". 
   2. Scroll down until you see a box that is labelled with the heading "GitHub Pages". 
   3. Click on the drop-down menu under the heading "Source". 
-  4. Select the first option from this list (the one that says master branch). This is the option you want to enable GitHub Pages correctly. You should see something like the image below: 
+  4. Select the first option from this list (the one that says master branch). This is the option you want to enable GitHub Pages correctly. You should see something like the image below: ![githubpages](https://user-images.githubusercontent.com/57049086/67643841-acb32200-f8e9-11e9-9be5-f0b962fa240b.JPG)
+  5. 
 
 
     
