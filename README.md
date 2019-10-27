@@ -92,3 +92,6 @@ Now that you know the basics, you need to convert your résumé to Markdown. To 
    1. **Upload Your Résumé to Your GitHub Repostitory**
     * Go to your Github account/repository which you created earlier. 
     * Since you have not uploaded anything yet, you should see a screen which looks something like this: 
+    ![Getting started with GitHub](https://user-images.githubusercontent.com/57049086/67641981-16750100-f8d5-11e9-9aea-e000a76fe9dd.JPG)
+    *
+
