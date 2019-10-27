@@ -112,7 +112,8 @@ Now that you know the basics, you need to convert your résumé to Markdown. To 
       * Go to the homepage of your repository.  
       * It should look something like shown below, just with your file(s) in it.
           ![home](https://user-images.githubusercontent.com/57049086/67642439-d5cbb680-f8d9-11e9-82fc-9e2adc788772.JPG)
-        * If you are not at this page, click the "Code" button to return to it.
+        * If you are not at this page, click the "Code" button or click on the name of your repository (the part to the right of the "/" in the above image) to return to it.
+      * Click the name of your résumé. 
 
     
 
