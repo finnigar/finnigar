@@ -70,12 +70,12 @@ Now that you know the basics, you need to convert your résumé to Markdown. To 
   * Open a new document in your editor, so that you can begin writing your document.
    * **In some cases, there may be some text here supplied by the editor itself. If this is the case, just delete the text, as it is not needed**
   * Type your document in the space, being sure to use Markdown formatting.
-3. **Save your document** 
+3. **Save your document**   
   **A. Saving your document using a downloaded text editor**
    * Find the button that says "Save". Usually, this is under the "File" menu. 
    * Click save.
    * Make sure when you name your document, you save it as a **.md file.**
-   * **If you do not save it as a .md file, and save it as something else (for example, .docx), it will not be saved in Markdown format properly. Therefore, you will not be able to host your document on GitHub Pages**
+   * **If you do not save it as a .md file, and save it as something else (for example, .docx), it will not be saved in Markdown format properly. Therefore, you will not be able to host your document on GitHub Pages**  
   **B. Saving your document using an online text editor**
     * Click on the "Export As" button
      * Each editor might call it something slightly different, like "Export As", or "Export", or "Download".
