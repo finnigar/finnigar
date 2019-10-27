@@ -33,13 +33,14 @@ This instruction set will provide information on how to host your résumé to Gi
  1. **Headings:**   
    * There are 6 levels of headings in Markdown. Level 1 is equivalent to Heading 1 in Word, or the largest heading. Level 2 is one level smaller (Heading 2 in Word), and so on.   
    * To use headings, begin the line with a "#".  
-   * Use the same number of "#"s as you wish you heading level to be. For example, if you want a Level 3 heading, you would begin the line with "###".    
+   * Use the same number of "#"s as you wish you heading level to be. For example, if you want a Level 3 heading, you would begin the line with "###".  
+   * In order for the heading to be formatted correctly, you must put a single space after the #'s, then begin typing your heading.
  2. **Bold and _Italic_ Fonts**  
    * In your resume, you may wish to emphasise certain parts by using boldface, or using italics.  
    * To use boldface, put two astericks "*", then begin typing the word. **Do not put a space after the astericks.** Then, type the content you would like in bold, and then put two astericks at the end of the content you would like bolded. **Do not put a space before the astericks at the end.**  
    * To use _italicized_ font, use the "_" symbol (underscore). Put an underscore symbol, then type the content you would like italicized, then put a underscore to end the italicized content. **Similar to with bold, do not put a space after the first underscore or before the last underscore**  
  
- 3. Bulleted and Numbered Lists  
+ 3. **Bulleted and Numbered Lists**  
  * To use lists, they must start on a new line. Also, each item of the list must start on a new line.  
  * To create a new line, put two spaces after the previous line, and hit enter.   
  * Put a * at the beginning of the next line. This will create the first item in a **bulleted** list.
@@ -47,4 +48,12 @@ This instruction set will provide information on how to host your résumé to Gi
  * Put two spaces at the end of the line. 
  * Click Enter, and repeat the process for every other item in the list. 
  * Enter a number instead of a * if you wish to use numbered lists. Note that the number should have a period after it. For example, do not start the line as "1", but rather as "1."
- * 
+ 
+You now know some of the basics to using Markdown! You may find these helpful when writing your résumé. Of course, there is much more to Markdown than just these steps, such as the ability to add clickable links, images, and much much more. Feel free to check out the "Additional Resources" section of this document for more information on how to use Markdown.
+
+You have now learned the tools you need to get started on hosting your résumé! 
+
+### 2. Converting Your Résumé to Markdown 
+
+Now that you know the basics, you need to convert your résumé to Markdown. To do so, follow these steps:  
+1. 
