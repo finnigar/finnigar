@@ -45,4 +45,4 @@ This instruction set will provide information on how to host your résumé to Gi
  * Put a * at the beginning of the next line. This will create the first item in a **bulleted** list.   
  * Put two spaces at the end of the line. 
  * Click Enter, and repeat the process for every other item in the list. 
- * Enter a number instead of a * if you wish to use numbered lists. Note that the number should have a period after it. For example, do not start the line as "1", but rather as "1."
+ *Enter a number instead of a * if you wish to use numbered lists. Note that the number should have a period after it. For example, do not start the line as "1", but rather as "1."
