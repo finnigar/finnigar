@@ -125,6 +125,21 @@ Now that you know the basics, you need to convert your résumé to Markdown. To 
      * Scroll down until you see a box that is labelled with the heading "GitHub Pages". 
      * Click on the drop-down menu under the heading "Source". You should see something like the image below: ![githubpages](https://user-images.githubusercontent.com/57049086/67643841-acb32200-f8e9-11e9-9be5-f0b962fa240b.JPG)
      * Select the first option from this list (the one that says master branch). This is the option you want to enable GitHub Pages correctly. 
+     * Your résumé will now be published on GitHub Pages! 
+       * **Note that it will take a few minutes for the page to be ready.**
+       * **You will see a link appear. This is where your résumé will be on GitHub Pages.
+       * **If by clicking on the link you get an "Error 404 Site Not Found," it usually means that the site is not quite ready yet (even if GitHub _says_ the site has been published, it still may take a couple more minutes for the site to fully initialize) 
+       * **Wait a few minutes, and your site should be active.
+       * ** Click on the link, and view your page live on GitHub Pages!
+  
+  
+  Congratulations! You have successfully hosted your résumé on GitHub Pages. Now that is is live, you can do things to personalize the site and make it your own. One of these ways is by setting the theme. You can do so by following the instructions below: 
+  
+ 4. **(Optional Step) Using a Jekyll Theme to Set the Theme of your GitHub Pages Webpage
+      * This step is optional. If you are fine with the default theme, feel free to skip this step. 
+      * However, there are many interesting themes that GitHub allows you to use by incorporating something known as Jekyll into their site. 
+      * **You do not need to know anything about Jekyll to do this step.
+      * If you would like to change the theme, go to 
      
 
 
