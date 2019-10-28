@@ -170,7 +170,13 @@ Now that you know the basics, you need to convert your résumé to Markdown. To 
 ## Authors and Acknowledgments
  * Author: Ryan Finnigan
  * Acknowledgements go out to the following people: 
-   * Template Author: 
+   * Template Author: Matthew Graham
+   * Group Members: 
+     * Mitul Patel
+     * Amandeep Dhillon
+
+## FAQs 
+  1.  
 
      
 
