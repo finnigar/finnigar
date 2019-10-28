@@ -155,6 +155,7 @@ Now that you know the basics, you need to convert your résumé to Markdown. To 
        * Click on this file. 
        * Click on the pen so as to edit the file. 
        * You can now make changes to certain parts of the theme. 
+       * You will need to make the changes to the [front matter](https://jekyllrb.com/docs/front-matter/) of your theme. 
        * For example, if you want to change the title of your site, write a line that says: "**title:**" followed by whatever you want the title of your site to be.
        
   You now know all the basics of how to host a résumé on GitHub Pages!
@@ -179,7 +180,7 @@ Now that you know the basics, you need to convert your résumé to Markdown. To 
   1. Do I have to use a text editor?   
     * No. Github will allow you to edit your document directly on Github. However, using a text editor is highly recommended, even if you have experience with Markdown. This is because a text editor will let you see a side-by-side comparison of what you are typing and what it actually looks like in Markdown. If you edit it directly on Github, it does not give you this feature. Therefore, using a text editor will be beneficial to you, as you can see right away if you have the correct syntax or not. For many features of Markdown, there is specific syntax, and it is easy to make mistakes. Thus, it is easier to correct your mistakes while using a text editor than it is to write a whole document, commit your changes, then realize that you have to fix the formatting on the entire document!
  2. I tried to edit the theme by editing the _config.yml file, but I got a message telling me that my build failed. Now what? 
-   * This means there is an error in your _config.yml file. You have edited the file in a way that Jekyll does not allow. To fix this, you can undo your edits and/or fixing your edits so they are entered in an allowable format. View [information about GitHub and Jeykll](https://help.github.com/en/github/working-with-github-pages/about-github-pages-and-jekyll) as well as [Jekyll's documentation on Configuration](https://jekyllrb.com/docs/configuration/) to learn more about what is and is not allowed. If you are sure you entered an allowable command, and you are still getting this error, check the syntax and spelling of your command.
+   * This means there is an error in your _config.yml file. You have edited the file in a way that Jekyll does not allow. To fix this, you can undo your edits and/or fixing your edits so they are entered in an allowable format. View [information about GitHub and Jeykll](https://help.github.com/en/github/working-with-github-pages/about-github-pages-and-jekyll) and [Jekyll's Front Matter Documentation](https://jekyllrb.com/docs/front-matter/) to learn more about what is and is not allowed when editing the front matter of your theme. If you are sure you entered an allowable command, and you are still getting this error, check the syntax and spelling of your command.
      
 
 
