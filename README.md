@@ -139,7 +139,9 @@ Now that you know the basics, you need to convert your résumé to Markdown. To 
       * This step is optional. If you are fine with the default theme, feel free to skip this step. 
       * However, there are many interesting themes that GitHub allows you to use by incorporating something known as Jekyll into their site. 
       * **You do not need to know anything about Jekyll to do this step.
-      * If you would like to change the theme, go to 
+      * If you would like to change the theme: 
+        * If you are not already there, click on the Settings tab.
+        * Scroll down until you reach the GitHub Pages, and this time look for the heading 
      
 
 
