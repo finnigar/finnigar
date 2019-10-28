@@ -161,8 +161,16 @@ Now that you know the basics, you need to convert your résumé to Markdown. To 
   
 ## More Resources
    * [A walkthrough tutorial on the basics of using Markdown](https://www.markdowntutorial.com/)
-   * yjoj
-   - rjbne
+   * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+   * [Dillinger: An Online Text Editor](https://dillinger.io/)
+   * [StackEdit Text Editor](https://stackedit.io/app#)
+   * [More info about GitHub Pages](https://help.github.com/en/github/working-with-github-pages)
+   * [Ask and answer questions about Github in the Github Community Forum](https://github.community/)
+   
+## Authors and Acknowledgments
+ * Author: Ryan Finnigan
+ * Acknowledgements go out to the following people: 
+   * Template Author: 
 
      
 
