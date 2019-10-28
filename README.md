@@ -142,7 +142,8 @@ Now that you know the basics, you need to convert your résumé to Markdown. To 
       * If you would like to change the theme: 
         * If you are not already there, click on the Settings tab.
         * Scroll down until you reach the GitHub Pages (if you are not already there from Step 3).
-        * Look for the heading that says "Theme chooser", and click "
+        * Look for the heading that says "Theme chooser", and click "Change theme" 
+        *
      
 
 
