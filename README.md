@@ -141,7 +141,8 @@ Now that you know the basics, you need to convert your résumé to Markdown. To 
       * **You do not need to know anything about Jekyll to do this step.
       * If you would like to change the theme: 
         * If you are not already there, click on the Settings tab.
-        * Scroll down until you reach the GitHub Pages, and this time look for the heading 
+        * Scroll down until you reach the GitHub Pages (if you are not already there from Step 3).
+        * Look for the heading that says "Theme chooser", and click "
      
 
 
