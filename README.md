@@ -160,9 +160,10 @@ Now that you know the basics, you need to convert your résumé to Markdown. To 
   You now know all the basics of how to host a résumé on GitHub Pages!
   
 ## More Resources
-    * [A walkthrough tutorial on the basics of using Markdown](https://www.markdowntutorial.com/)
-    * yjoj
-    - tjjkjt
+   * [A walkthrough tutorial on the basics of using Markdown](https://www.markdowntutorial.com/)
+   * yjoj
+   - rjbne
+
      
 
 
