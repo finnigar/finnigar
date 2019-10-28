@@ -51,7 +51,7 @@ This instruction set will provide information on how to host your résumé to Gi
     * Click Enter, and repeat the process for every other item in the list. 
     * Enter a number instead of a * if you wish to use numbered lists. Note that the number should have a period after it. For example, do not start the line as "1", but rather as "1."
  
-You now know some of the basics to using Markdown! You may find these helpful when writing your résumé. Of course, there is much more to Markdown than just these steps, such as the ability to add clickable links, images, and much much more. Feel free to check out the "Additional Resources" section of this document for more information on how to use Markdown.
+You now know some of the basics to using Markdown! You may find these helpful when writing your résumé. Of course, there is much more to Markdown than just these steps, such as the ability to add clickable links, images, and much much more. Feel free to check out the "More Resources" section of this document for more information on how to use Markdown.
 
 You have now learned the tools you need to get started on hosting your résumé! 
 
@@ -63,7 +63,7 @@ Now that you know the basics, you need to convert your résumé to Markdown. To 
    * There are many free text editors that you can choose from. 
    * One recommendation for a text editor is [Atom](https://atom.io/). This is because it works well with both Markdown and Github, and it is relatively simple to use.
    * However, if you try using Atom and do not like it, or do not want to download a text editor, you do not have to use it. 
-   * See the "Additional Resources" section for some more recommendations of text editors.
+   * See the "More Resources" section for some more recommendations of text editors.
 
 2. **Edit your document.**
     * Now that you have chosen your text editor, you must now edit your document in Markdown format. 
@@ -143,7 +143,26 @@ Now that you know the basics, you need to convert your résumé to Markdown. To 
         * If you are not already there, click on the Settings tab.
         * Scroll down until you reach the GitHub Pages (if you are not already there from Step 3).
         * Look for the heading that says "Theme chooser", and click "Change theme" 
-        *
+        ![theme chooser](https://user-images.githubusercontent.com/57049086/67644808-c5740580-f8f2-11e9-89b0-2d07681e55ca.JPG)
+        * You will be redirected to a place where you can choose a theme from a variety of options
+        * Click on the theme you wish to apply to your site
+        * Click "Apply theme"
+   Your site should now have the theme you chose on it. **Note that it may take a few minutes for your theme to apply. If you click on your site and it has not applied the theme, try refreshing the site.** 
+   
+     * If you would like to edit the theme: 
+       * Navigate back to your home repository where your files are located on GitHub. 
+       * You should see a new file, called **"_config.yml"** has shown up there.
+       * Click on this file. 
+       * Click on the pen so as to edit the file. 
+       * You can now make changes to certain parts of the theme. 
+       * For example, if you want to change the title of your site, write a line that says: "**title:**" followed by whatever you want the title of your site to be.
+       
+  You now know all the basics of how to host a résumé on GitHub Pages!
+  
+## More Resources
+    * [A walkthrough tutorial on the basics of using Markdown](https://www.markdowntutorial.com/)
+    * yjoj
+    - tjjkjt
      
 
 
