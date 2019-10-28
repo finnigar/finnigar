@@ -176,8 +176,8 @@ Now that you know the basics, you need to convert your résumé to Markdown. To 
      * Amandeep Dhillon
 
 ## FAQs 
-  1.  
-
+  1. Do I have to use a text editor? 
+    * No. Github will allow you to edit your document directly on Github. However, using a text editor is highly recommended, even if you have experience with Markdown. This is because a text editor will let you see a side-by-side comparison of what you are typing and what it actually looks like in Markdown. If you edit it directly on Github, it does not give you this feature. Therefore, using a text editor will be beneficial to you, as you can see right away if you have the correct syntax or not. For many features of Markdown, there is specific syntax, and it is easy to make mistakes. Thus, it is easier to correct your mistakes while using a text editor than it is to write a whole document, commit your changes, then realize that you have to fix the formatting on the entire document!
      
 
 
