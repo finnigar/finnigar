@@ -84,8 +84,8 @@ Now that you know the basics, you need to convert your résumé to Markdown. To 
   
   ### 3. **Hosting your Résumé on GitHub Pages**
   Now that you have a Markdown formatted résumé, the next step is to host it on GitHub Pages. In order to do so, there are a few steps you need to follow: 
-   1. **Upload Your Résumé to Your GitHub Repostitory**   
-      * Go to your Github account/repository which you created earlier.   
+   1. **Upload Your Résumé to Your GitHub Repository**   
+      * Go to your GitHub account/repository which you created earlier.   
       * Since you have not uploaded anything yet, you should see a screen which looks something like this:
    ![getting_started](https://user-images.githubusercontent.com/57049086/67641981-16750100-f8d5-11e9-9aea-e000a76fe9dd.JPG)
       * Click on the link that says "upload an existing file."  
@@ -100,7 +100,7 @@ Now that you know the basics, you need to convert your résumé to Markdown. To 
        ![commit changes](https://user-images.githubusercontent.com/57049086/67642143-c9922a00-f8d6-11e9-9350-974d20b44fa8.JPG)
         * Type a description into the box if you wish
         * Click the green "commit changes" button, and your changes will be confirmed.  
-   Your résumé should now be in your GitHub reposititory.
+   Your résumé should now be in your GitHub repository.
    
    2. **Rename your file**  
       * Go to the homepage of your repository.  
@@ -127,7 +127,7 @@ Now that you know the basics, you need to convert your résumé to Markdown. To 
        * **Click on the link, and view your page live on GitHub Pages!**
   
   
-  Congratulations! You have successfully hosted your résumé on GitHub Pages. Now that is is live, you can do things to personalize the site and make it your own. One of these ways is by setting the theme. You can do so by following the instructions below: 
+  Congratulations! You have successfully hosted your résumé on GitHub Pages. Now that it is live, you can do things to personalize the site. One of these ways is by setting the theme. You can do so by following the instructions below: 
   
  4. **(Optional Step) Using a Jekyll Theme to Set the Theme of your GitHub Pages Webpage**
       * This step is optional. If you are fine with the default theme, feel free to skip this step. 
@@ -157,12 +157,12 @@ Now that you know the basics, you need to convert your résumé to Markdown. To 
    * [Dillinger: An Online Text Editor](https://dillinger.io/)
    * [StackEdit Text Editor](https://stackedit.io/app#)
    * [More info about GitHub Pages](https://help.github.com/en/github/working-with-github-pages)
-   * [Ask and answer questions about Github in the Github Community Forum](https://github.community/)
+   * [Ask and answer questions about GitHub in the GitHub Community Forum](https://github.community/)
    
 ## Authors and Acknowledgments
  * Author: Ryan Finnigan
  * Acknowledgements go out to the following people: 
-   * Template Author: Matthew Graham
+   * Credit to Matthew Graham (Template Author: Matthew Graham
    * Group Members: 
      * Mitul Patel
      * Amandeep Dhillon
