@@ -49,6 +49,11 @@ This instruction set will provide information on how to host your résumé to Gi
       * Put a underscore at the end of the last word you would like to have italicized.    
       * **Similar to with bold, do not put a space after the first underscore or before the last underscore** 
     * You can create text that is _**both italicized and bolded**_ by combining the use of underscores and astericks.
+      * Type an underscore
+      * Without inserting a space, type two astericks
+      * Begin to type the word/phrase you want both bolded and italicized. **Do not put a space between the astericks and the first word**
+      * Type two astericks at the end of the last word you want bolded and italicized. **Do not insert a space between the last word and the astericks**
+      * After the astericks, type an underscore. Your word will now be both bolded and italicized.
  
  3. **Bulleted and Numbered Lists**    
     * To use lists, they must start on a new line. Also, each item of the list must start on a new line.  
@@ -92,6 +97,7 @@ Now that you know the basics, you need to convert your résumé to Markdown. To 
     * Click on the .md file type
      * **Make sure that you export it as a .md file. This is the file type that will save it in Markdown format.** 
     * Your document should now download, and should appear in your "Downloads" folder on your computer.
+      
     
   Your résumé is now converted to Markdown, and you are ready to host it on GitHub Pages!
   
