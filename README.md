@@ -162,10 +162,10 @@ Now that you know the basics, you need to convert your résumé to Markdown. To 
 ## Authors and Acknowledgments
  * Author: Ryan Finnigan
  * Acknowledgements go out to the following people: 
-   * Credit to Matthew Graham [mattgraham](mattgraham) for the template.
-   * Group Members: 
-     * Mitul Patel
+   * Credit to Matthew Graham [mattgraham](https://twitter.com/michigangraham) for the template.
+   * Credit to my group members for peer editing/review: 
      * Amandeep Dhillon
+     * Mitul Patel
 
 ## FAQs 
   1. **Do I have to use a text editor?**   
