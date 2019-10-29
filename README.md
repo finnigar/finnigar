@@ -42,7 +42,7 @@ This instruction set will provide information on how to host your résumé to Gi
     * In your resume, you may wish to emphasise certain parts by using boldface, or using italics.  
     * To use boldface:  
       * Put two astericks ("*"), then begin typing the word or phrase you wish to have bolded. **Do not put a space after the astericks.**  
-      * Put two astericks at the end of the last word you would like bolded. **Do not put a space before the last word and the astericks.**  
+      * Put two astericks at the end of the last word you would like bolded. **Do not put a space before the astericks.**  
     * To use _italicized_ font:  
       * Use the "_" symbol (underscore). 
       * Put an underscore symbol, then type the content you would like italicized  
