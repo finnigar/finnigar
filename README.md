@@ -148,8 +148,7 @@ Now that you know the basics, you need to convert your résumé to Markdown. To 
      * If you would like to edit the title of your page
        * Navigate back to your home repository where your files are located on GitHub. 
        * You should see a new file, called **"_config.yml"** has shown up there.
-       * Click on this file. 
-       * Click on the pen so as to edit the file. 
+       * Open this file for editing.
        * Add the line "title:", then type a title for your page.
        
   You now know all the basics of how to host a résumé on GitHub Pages!
