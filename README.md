@@ -32,7 +32,7 @@ This instruction set will provide information on how to host your résumé to Gi
    Congratulations! Your GitHub account is now set up and ready for use.
   
 #### B. Learn Markdown
- Now that you have created a GitHub account, you will need to learn Markdown! GitHub uses a tool called (GitHub Flavoured) Markdown for formatting/editing documents. This is a useful tool for editing plain text documents, but, it is likely different than tools you may be used to, such as Microsoft Word, WordPad, or other similar tools. There are a lot of features Markdown offers, but here are a few of the basics which you may find useful in your résumé:   
+ Now that you have created a GitHub account, you will need to learn Markdown! GitHub uses a tool called (GitHub Flavoured) Markdown for formatting/editing documents. This is a useful tool for editing plain text documents, but, it is likely different than tools you may be used to, such as Microsoft Word, WordPad, or other similar tools. Markdown offers a large variety of features you can use in your document. Here are a few of the basics which you may find useful when writing your résumé in Markdown:   
  1. **Headings:**   
     * There are 6 levels of headings in Markdown. Level 1 is equivalent to Heading 1 in Word, or the largest heading. Level 2 is one level smaller (Heading 2 in Word), and so on.   
     * To use headings, begin the line with a "#".  
