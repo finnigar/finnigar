@@ -36,7 +36,7 @@ This instruction set will provide information on how to host your résumé to Gi
  1. **Headings:**   
     * There are 6 levels of headings in Markdown. Level 1 is equivalent to Heading 1 in Word, or the largest heading. Level 2 is one level smaller (Heading 2 in Word), and so on.   
     * To use headings, begin the line with a "#".  
-    * Use the same number of "#"s as you wish you heading level to be. For example, if you want a Level 3 heading, you would begin the line with "###".  
+    * Use the same number of "#"s as you want your heading level to be. For example, if you want a Level 3 heading, you would begin the line with "###".  
     * In order for the heading to be formatted correctly, you must put a single space after the #'s, then begin typing your heading.
  2. **Bold and _Italic_ Fonts**  
     * In your resume, you may wish to emphasise certain parts by using boldface, or using italics.  
