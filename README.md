@@ -7,7 +7,7 @@ This instruction set will provide information on how to host your résumé to Gi
  * Since this instruction set is intended for beginners, **no experience is required** with any of the tools that will be described in this set.
  * The only prerequisite required is that the reader has a **résumé**.
  * You should also have a valid email address. This will be required in order to set up your GitHub account.
- * **Recommendation:** Use a computer to complete this. It would be difficult to complete these steps using a mobile device. 
+ * **Recommendation:** Use a computer to complete these instructions. It would be difficult to complete these steps using a mobile device. 
  
  ## Instructions on How to Host Your Résumé 
  
