@@ -27,7 +27,7 @@ finnigar@myumanitoba.ca
 # Education
 1. **University of Manitoba, Faculty of Science, Department of Computer Science**
     * Enrolled in the four-year Computer Science Honours Program 
-    * Currently in my first semester of my third year
+    * Currently in the first semester of my third year
 2. **High School Diploma; Graduation Year 2017**
    * Completed my High School Diploma at St. Paul's High School, 2200 Grant Ave, Winnipeg, MB
    * Completed with honour roll status
@@ -39,7 +39,7 @@ finnigar@myumanitoba.ca
  
 # Volunteer Experience
 1. **Meadowood Manor -- Winnipeg, MB -- September 2015 to October 2017**
-   * Assisting elderly; games, set up for activities (bingo, movies, etc), portering residents
+   * Assisting elderly, games, set up for activities (bingo, movies, etc.), portering residents
 2. **Winnipeg Harvest -- Winnipeg, MB -- September 2014 to June 2015**
    * Packing, sorting, and organizing food boxes
 
