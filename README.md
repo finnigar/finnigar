@@ -31,37 +31,25 @@ This instruction set will provide information on how to host your résumé to Gi
    Congratulations! Your GitHub account is now set up and ready for use.
   
 #### B. Learn Markdown
- Now that you have created a GitHub account, you will need to learn Markdown! GitHub uses a tool called (GitHub Flavoured) Markdown for formatting/editing documents. This is a useful tool for editing plain text documents, but, it is likely different than tools you may be used to, such as Microsoft Word, WordPad, or other similar tools. Markdown offers a large variety of features you can use in your document. Here are a few of the basics which you may find useful when writing your résumé in Markdown:   
+ Now that you have created a GitHub account, you will need to learn Markdown! GitHub uses a tool called (GitHub Flavoured) Markdown for formatting/editing documents. Markdown is different than tools you may be familiar with, such as Word. Here are a few of the basics which you may find useful when writing your résumé in Markdown:   
  1. **Headings:**   
-    * There are 6 levels of headings in Markdown. Level 1 is equivalent to Heading 1 in Word, or the largest heading. Level 2 is one level smaller (Heading 2 in Word), and so on.   
-    * To use headings, begin the line with a "#".  
-    * Use the same number of "#"s as you want your heading level to be. For example, if you want a Level 3 heading, you would begin the line with "###".  
-    * In order for the heading to be formatted correctly, you must put a single space after the #'s, then begin typing your heading.
+    * There are 6 levels of headings in Markdown.   
+    * To use headings, begin the line with a "#" then place a space.  
+    * The more #'s you include, the smaller the heading will be.
  2. **Bold and _Italic_ Fonts**  
     * In your resume, you may wish to emphasise certain parts by using boldface, or using italics.  
     * To use **boldface:**  
-      * Put two astericks ("*"), then begin typing the word or phrase you wish to have bolded. **Do not put a space after the astericks.**  
-      * Put two astericks at the end of the word or phrase you would like bolded. **Do not put a space before the astericks.**  
+      * Use two astericks (*) at the beginning and the end of the word or phrase you would like bolded. 
     * To use _italicized_ font:  
-      * Use the "_" symbol (underscore). 
-      * Put an underscore symbol, then type the content you would like italicized  
-      * Put a underscore at the end of the word or phrase you would like to have italicized.    
-      * **Similar to with bold, do not put a space after the first underscore or before the last underscore** 
-    * You can create text that is _**both italicized and bolded**_ by combining the use of underscores and astericks.
-      * Type an underscore
-      * Without inserting a space, type two astericks
-      * Begin to type the word/phrase you want both bolded and italicized. **Do not put a space between the astericks and the first word**
-      * Type two astericks at the end of the word or phrase you want bolded and italicized. **Do not insert a space between the last word and the astericks**
-      * After the astericks, type an underscore. Your word will now be both bolded and italicized.
- 
+      * Place an underscore (_) at the beginning and end of the word or phrase you would like bolded. 
  3. **Bulleted and Numbered Lists**    
     * To use lists, they must start on a new line. Also, each item of the list must start on a new line.  
     * To create a new line, put two spaces after the previous line, and hit enter.   
-    * Put a * at the beginning of the next line. This will create the first item in a **bulleted** list.
-    * Put a space after the *, then begin typing the content of the line.
-    * Put two spaces at the end of the line. 
-    * Click Enter, and repeat the process for every other item in the list. 
-    * Enter a number instead of a * if you wish to use numbered lists. Note that the number should have a period after it. For example, do not start the line as "1", but rather as "1."
+    * To use a bulleted list:
+      * Create a new line.
+      * Place a "*" character, followed by a space.
+      * Do this for each item in the list.
+    * Numbered lists follow the same format, just using a number instead of a *. **Be sure to put a period after the number.**  
  
 You now know some of the basics to using Markdown! You may find these helpful when writing your résumé. Of course, there is much more to Markdown than just these steps, such as the ability to add clickable links, images, and much much more. Feel free to check out the "More Resources" section of this document for more information on how to use Markdown.
 
