@@ -145,14 +145,12 @@ Now that you know the basics, you need to convert your résumé to Markdown. To 
         * Click "Apply theme"
    Your site should now have the theme you chose on it. **Note that it may take a few minutes for your theme to apply. If you click on your site and it has not applied the theme, try refreshing the site.** 
    
-     * If you would like to edit the theme: 
+     * If you would like to edit the title of your page
        * Navigate back to your home repository where your files are located on GitHub. 
        * You should see a new file, called **"_config.yml"** has shown up there.
        * Click on this file. 
        * Click on the pen so as to edit the file. 
-       * You can now make changes to certain parts of the theme. 
-       * You will need to make the changes to the [front matter](https://jekyllrb.com/docs/front-matter/) of your theme. 
-       * For example, if you want to change the title of your site, write a line that says: "**title:**" followed by whatever you want the title of your site to be.
+       * Add the line "title:", then type a title for your page.
        
   You now know all the basics of how to host a résumé on GitHub Pages!
   
