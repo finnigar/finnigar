@@ -15,17 +15,13 @@ This instruction set will provide information on how to host your résumé to Gi
    In order to be able to host your résumé on GitHub Pages, you will first need to have a GitHub account. The following steps will help you create a GitHub account:   
    1. [Click here](https://github.com/join) to begin initial setup of your account.
    2. Fill in the required fields from the link above to set up your account. You will need to create a username and password.
-   3. Click Select a Plan once you have finished filling in the fields. 
-   4. Choose a plan that is right for you. You can create a free account, or, if you wish, you can choose a Pro account, which costs $7 USD per month.  
-      * You will be able to do all required steps to host your résumé using a free account.
-   5. You will then arrive at a page that looks something like this: ![welcome to github](https://user-images.githubusercontent.com/57049086/67638774-93dd4900-f8b6-11e9-87b9-acaa70c4e041.JPG)
+   3. Click Select a Plan once you have finished filling in the fields, and create a free account. 
+   4. You will then arrive at a page that looks something like this: ![welcome to github](https://user-images.githubusercontent.com/57049086/67638774-93dd4900-f8b6-11e9-87b9-acaa70c4e041.JPG)
       Once you arrive at this page you have two options:  
        * Fill out the questions on this page, and hit submit, or,  
-       * Scroll to the bottom of the page, and click "skip this step."
-          
-   6. Check your email, and you should see an email from GitHub.  
-   7. Click on the link in the email from GitHub to verify your email. **This is important, as you will not be able to proceed in creating your account unless you verify your email address. If you do not see it, check your spam/junk folder.**
-  8. Once your email was verified, create a new repository by entering a name for it, and then clicking submit. Your repository will be where you store your files. **Note: On the page, it will give you the option of choosing a public or private repository. You can choose either. However, if you would like to use GitHub Pages, you either need to have a public account, or you must have a GitHub Pro account (which costs $7 USD per month).**
+       * Scroll to the bottom of the page, and click "skip this step."      
+  5. Verify your email.
+  6. Once your email was verified, create a new repository by entering a name for it, and then clicking submit. Your repository will be where you store your files. **Note: On the page, it will give you the option of choosing a public or private repository. You can choose either. However, if you would like to use GitHub Pages, you either need to have a public account, or you must have a GitHub Pro account (which costs $7 USD per month).**
   ![Create new repository](https://user-images.githubusercontent.com/57049086/67639423-6ba51880-f8bd-11e9-9bfd-d7cf7545511d.JPG)
 
    Congratulations! Your GitHub account is now set up and ready for use.
