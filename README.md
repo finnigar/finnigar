@@ -14,7 +14,7 @@ This instruction set will provide information on how to host your résumé to Gi
  ####   A. Creating a GitHub Account
    In order to be able to host your résumé on GitHub Pages, you will first need to have a GitHub account. The following steps will help you create a GitHub account:   
    1. [Click here](https://github.com/join) to begin initial setup of your account.
-   2. Fill in the required fields from the link above to set up your account. You will need to create a username and password, and have a valid email address.
+   2. Fill in the required fields from the link above to set up your account. You will need to create a username and password.
    3. Click Select a Plan once you have finished filling in the fields. 
    4. Choose a plan that is right for you. You can create a free account, or, if you wish, you can choose a Pro account, which costs $7 USD per month.  
       * You will be able to do all required steps to host your résumé using a free account.
