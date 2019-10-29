@@ -52,7 +52,7 @@ This instruction set will provide information on how to host your résumé to Gi
       * Type an underscore
       * Without inserting a space, type two astericks
       * Begin to type the word/phrase you want both bolded and italicized. **Do not put a space between the astericks and the first word**
-      * Type two astericks at the end of the last word you want bolded and italicized. **Do not insert a space between the last word and the astericks**
+      * Type two astericks at the end of the word or phrase you want bolded and italicized. **Do not insert a space between the last word and the astericks**
       * After the astericks, type an underscore. Your word will now be both bolded and italicized.
  
  3. **Bulleted and Numbered Lists**    
