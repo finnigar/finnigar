@@ -47,7 +47,7 @@ This instruction set will provide information on how to host your résumé to Gi
       * Do this for each item in the list.
     * Numbered lists follow the same format, just using a number instead of a *. **Be sure to put a period after the number.**  
  
-You now know some of the basics to using Markdown! You may find these helpful when writing your résumé. Of course, there is much more to Markdown than just these steps, such as the ability to add clickable links, images, and much much more. Feel free to check out the "More Resources" section of this document for more information on how to use Markdown.
+You now know some of the basics to using Markdown! You may find these helpful when writing your résumé. Of course, there is much more to Markdown than just these steps. Check out the "More Resources" section of this document for more information on how to use Markdown.
 
 You have now learned the tools you need to get started on hosting your résumé! 
 
@@ -70,8 +70,7 @@ Now that you know the basics, you need to convert your résumé to Markdown. To 
 
 3. **Save your document**   
   * **Saving your document using a downloaded text editor**
-    * Find the button that says "Save". Usually, this is under the "File" menu. 
-    * Click save.
+    * Find and click the button that says "Save". Usually, this is under the "File" menu. 
     * Choose a name for your document. Make sure when you name your document, you save it as a **.md file.**
     * **If you do not save it as a .md file, and save it as something else (for example, .docx), it will not be saved in Markdown format properly. Therefore, you will not be able to host your document on GitHub Pages.**  
  * **Saving your document using an online text editor**
