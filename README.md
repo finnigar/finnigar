@@ -40,14 +40,15 @@ This instruction set will provide information on how to host your résumé to Gi
     * In order for the heading to be formatted correctly, you must put a single space after the #'s, then begin typing your heading.
  2. **Bold and _Italic_ Fonts**  
     * In your resume, you may wish to emphasise certain parts by using boldface, or using italics.  
-    * To use boldface:  
+    * To use **boldface:**  
       * Put two astericks ("*"), then begin typing the word or phrase you wish to have bolded. **Do not put a space after the astericks.**  
       * Put two astericks at the end of the last word you would like bolded. **Do not put a space before the astericks.**  
     * To use _italicized_ font:  
       * Use the "_" symbol (underscore). 
       * Put an underscore symbol, then type the content you would like italicized  
       * Put a underscore at the end of the last word you would like to have italicized.    
-      * **Similar to with bold, do not put a space after the first underscore or before the last underscore**  
+      * **Similar to with bold, do not put a space after the first underscore or before the last underscore** 
+    * You can create text that is _**both italicized and bolded**_ by combining the use of underscores and astericks.
  
  3. **Bulleted and Numbered Lists**    
     * To use lists, they must start on a new line. Also, each item of the list must start on a new line.  
