@@ -55,8 +55,8 @@ Now that you know the basics, you need to convert your résumé to Markdown. To 
 1. **Choose a text editor.**  
    * In order to work with Markdown, you will need a tool that will allow you to edit text in Markdown format.
    * There are many free text editors that you can choose from. 
-   * One recommendation for a text editor is [Atom](https://atom.io/). This is because it works well with both Markdown and Github, and it is relatively simple to use.
-   * However, if you try using Atom and do not like it, or do not want to download a text editor, you do not have to use it. 
+   * One recommendation for a text editor is [Atom](https://atom.io/). Atom is recommended because it works well with both Markdown and Github, and it is relatively simple to use.
+   * However, Atom is not the only text editor available. 
    * See the ["More Resources"](https://github.com/finnigar/finnigar/blob/master/README.md#more-resources) section for some more recommendations of text editors.
 
 2. **Edit your document.**
