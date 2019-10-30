@@ -20,16 +20,16 @@ This instruction set will provide information on how to host your résumé to Gi
        * Fill out the questions on this page, and hit submit, or,  
        * Scroll to the bottom of the page, and click "skip this step."      
   5. Verify your email.
-  6. Once your email was verified, create a new repository by entering a name for it, and then clicking submit. Your repository will be where you store your files. **Note: You will have the option of choosing a public or private repository. You can choose either. However, if you would like to use GitHub Pages, you either need to have a public account, or you must have a GitHub Pro account (which costs $7 USD per month).**
+  6. Create a new repository by entering a name for it, and then clicking submit. Your repository will be where you store your files. **Note: You will have the option of choosing a public or private repository. You can choose either. However, if you would like to use GitHub Pages, you either need to have a public account, or you must have a GitHub Pro account (which costs $7 USD per month).**
   ![Create new repository](https://user-images.githubusercontent.com/57049086/67639423-6ba51880-f8bd-11e9-9bfd-d7cf7545511d.JPG)
 
    Congratulations! Your GitHub account is now set up and ready for use.
   
 #### B. Learn Markdown
- Now that you have created a GitHub account, you will need to learn Markdown! GitHub uses a tool called (GitHub Flavoured) Markdown for formatting/editing documents. Markdown is different than tools you may be familiar with, such as Word. Here are a few of the basics which you may find useful when writing your résumé in Markdown:   
+ Now that you have created a GitHub account, you will need to learn Markdown! GitHub uses a tool called (GitHub Flavoured) Markdown for formatting/editing documents. Markdown is different than tools you may be familiar with, such as Word. Here are a few of the basics which you may find useful in Markdown:   
  1. **Headings:**   
     * There are 6 levels of headings in Markdown.   
-    * To use headings, begin the line with a "#" followed by a space.  
+    * To use headings, begin the line with a "#", followed by a space.  
     * The more #'s you include, the smaller the heading will be.
  2. **Bold and _Italic_ Fonts**    
     * To use **boldface:**  
@@ -37,7 +37,7 @@ This instruction set will provide information on how to host your résumé to Gi
     * To use _italicized_ font:  
       * Place an underscore (_) at the beginning and end of the word or phrase you would like bolded. 
  3. **Bulleted and Numbered Lists**    
-    * To use lists, they must start on a new line. Also, each item of the list must start on a new line.  
+    * Each item of a list must be on its own line.  
     * To create a new line, put two spaces after the previous line, and hit enter.   
     * To use a bulleted list:
       * Create a new line.
@@ -55,15 +55,13 @@ Now that you know the basics, you need to convert your résumé to Markdown. To 
 1. **Choose a text editor.**  
    * In order to work with Markdown, you will need a tool that will allow you to edit text in Markdown format.
    * There are many free text editors that you can choose from. 
-   * One recommendation for a text editor is [Atom](https://atom.io/). Atom is recommended because it works well with both Markdown and Github, and it is relatively simple to use.
-   * However, Atom is not the only text editor available. 
+   * One recommendation for a text editor is [Atom](https://atom.io/). Atom is recommended because it works well with both Markdown and Github, and it is relatively simple to use. 
    * See the ["More Resources"](https://github.com/finnigar/finnigar/blob/master/README.md#more-resources) section for some more recommendations of text editors.
 
 2. **Edit your document.**
     * Now that you have chosen your text editor, you must now edit your document in Markdown format. 
     * Open your text editor.
-    * Open a new document in your editor, so that you can begin writing your document.
-    * Type your document in the space, being sure to use Markdown formatting.
+    * Open a new document in your editor, and begin writing your document in Markdown format.
 
 3. **Save your document**   
   * **Saving your document using a downloaded text editor**
@@ -91,12 +89,10 @@ Now that you know the basics, you need to convert your résumé to Markdown. To 
       * Confirm by clicking "commit changes."   
         * "Commit changes" is essentially GitHub's version of save.  
         * In the box, you can choose to add a message that describes what changes you made. 
-        * This is not necessary, but it can be helpful to help you remember what changes you made.
-        * If you don't type anything in the box, you will get the default message that describes your action.
+        * This is not necessary, but it can be helpful to remember what changes you made.
+        * If you do not type anything in the box, you will get the default message that describes your action.
         * The commit changes box should look something like this: 
-       ![commit changes](https://user-images.githubusercontent.com/57049086/67642143-c9922a00-f8d6-11e9-9350-974d20b44fa8.JPG)
-        * Type a description into the box if you wish
-        * Click the green "commit changes" button, and your changes will be confirmed.  
+       ![commit changes](https://user-images.githubusercontent.com/57049086/67642143-c9922a00-f8d6-11e9-9350-974d20b44fa8.JPG) 
    Your résumé should now be in your GitHub repository.
    
    2. **Rename your file**  
@@ -120,9 +116,6 @@ Now that you know the basics, you need to convert your résumé to Markdown. To 
        * **Note that it will take a few minutes for the page to be ready.**
        * **You will see a link appear. This is where your résumé will be on GitHub Pages.**
        * **If by clicking on the link you get an "Error 404 Site Not Found," it usually means that the site is not quite ready yet (even if GitHub _says_ the site has been published)**
-       * **Wait a few minutes, and your site should be active.**
-       * **Click on the link, and view your page live on GitHub Pages!**
-  
   
   Congratulations! You have successfully hosted your résumé on GitHub Pages. Now that it is live, you can personalize your site. One of these ways is by setting the theme. You can do so by following the instructions below: 
   
