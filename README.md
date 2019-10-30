@@ -29,12 +29,11 @@ This instruction set will provide information on how to host your résumé to Gi
  Now that you have created a GitHub account, you will need to learn Markdown! GitHub uses a tool called (GitHub Flavoured) Markdown for formatting/editing documents. Markdown is different than tools you may be familiar with, such as Word. Here are a few of the basics which you may find useful when writing your résumé in Markdown:   
  1. **Headings:**   
     * There are 6 levels of headings in Markdown.   
-    * To use headings, begin the line with a "#" then place a space.  
+    * To use headings, begin the line with a "#" followed by a space.  
     * The more #'s you include, the smaller the heading will be.
- 2. **Bold and _Italic_ Fonts**  
-    * In your resume, you may wish to emphasise certain parts by using boldface, or using italics.  
+ 2. **Bold and _Italic_ Fonts**    
     * To use **boldface:**  
-      * Use two astericks (*) at the beginning and the end of the word or phrase you would like bolded. 
+      * Use two astericks (*) at the beginning and end of the word or phrase you would like bolded. 
     * To use _italicized_ font:  
       * Place an underscore (_) at the beginning and end of the word or phrase you would like bolded. 
  3. **Bulleted and Numbered Lists**    
