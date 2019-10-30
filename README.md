@@ -87,7 +87,7 @@ Now that you know the basics, you need to convert your résumé to Markdown. To 
       * Go to your GitHub account/repository which you created earlier.   
       * Since you have not uploaded anything yet, you should see a screen which looks something like this:
    ![getting_started](https://user-images.githubusercontent.com/57049086/67641981-16750100-f8d5-11e9-9aea-e000a76fe9dd.JPG)
-      * Click on the link that says "upload an existing file."  
+      * Click on "upload an existing file."  
       * Find where you saved your document on your computer.  
       * Double-click on the document you wish to upload, and it will upload.   
       * Confirm by clicking "commit changes."   
@@ -109,12 +109,12 @@ Now that you know the basics, you need to convert your résumé to Markdown. To 
       * Click the name of your résumé. You should see something like this: ![pen](https://user-images.githubusercontent.com/57049086/67643581-08c87700-f8e7-11e9-9280-8d5bdaeee53d.JPG)
       * Click on the pen. This will allow you to edit the document. 
       * Click in the box where the name of your file is.
-      * Rename your file from it's current name to the name **index.md**. 
+      * Rename your file from its current name to the name **index.md**. 
         * It must be in this format to publish it on GitHub Pages.
       * Commit your changes.
  3. **Publishing your Résumé to GitHub Pages**  
   Your résumé is now ready to be hosted on GitHub Pages. To host it on GitHub Pages, follow these steps:  
-     * Click on the "Settings" tab. This is located near the top of the page on the right hand side, underneath the buttons that say "Unwatch", "Star", and "Fork". 
+     * Click on the "Settings" tab. This is located near the top of the page on the right-hand side, underneath the buttons that say "Unwatch", "Star", and "Fork". 
      * Scroll down until you see a box that is labelled with the heading "GitHub Pages". 
      * Click on the drop-down menu under the heading "Source". You should see something like the image below: ![githubpages](https://user-images.githubusercontent.com/57049086/67643841-acb32200-f8e9-11e9-9be5-f0b962fa240b.JPG)
      * Select the first option from this list (the one that says master branch). This is the option you want to enable GitHub Pages correctly. 
@@ -133,14 +133,12 @@ Now that you know the basics, you need to convert your résumé to Markdown. To 
       * However, there are many interesting themes that GitHub allows you to use by incorporating something known as Jekyll into their site. 
       * **You do not need to know anything about Jekyll to do this step.**
       * If you would like to change the theme: 
-        * If you are not already there, click on the Settings tab.
-        * Scroll down until you reach the GitHub Pages (if you are not already there from Step 3).
-        * Look for the heading that says "Theme chooser", and click "Change theme" 
+        * Return to the setting for GitHub Pages in Settings.
+        * Look for the heading "Theme chooser", and click "Change theme." 
         ![theme chooser](https://user-images.githubusercontent.com/57049086/67644808-c5740580-f8f2-11e9-89b0-2d07681e55ca.JPG)
-        * You will be redirected to a place where you can choose a theme from a variety of options
-        * Click on the theme you wish to apply to your site
-        * Click "Apply theme"
-   Your site should now have the theme you chose on it. **Note that it may take a few minutes for your theme to apply. If you click on your site and it has not applied the theme, try refreshing the site.** 
+        * You will be redirected to a site where you can choose a theme from a variety of options.
+        * Click on the theme you wish to apply to your site, and apply it.
+   Your site should now have the theme you chose on it. **Note that it may take a few minutes for your theme to apply.** 
    
      * If you would like to edit the title of your page
        * Navigate back to your home repository where your files are located on GitHub. 
