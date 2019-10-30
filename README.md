@@ -119,7 +119,7 @@ Now that you know the basics, you need to convert your résumé to Markdown. To 
      * Your résumé will now be published on GitHub Pages! 
        * **Note that it will take a few minutes for the page to be ready.**
        * **You will see a link appear. This is where your résumé will be on GitHub Pages.**
-       * **If by clicking on the link you get an "Error 404 Site Not Found," it usually means that the site is not quite ready yet (even if GitHub _says_ the site has been published)
+       * **If by clicking on the link you get an "Error 404 Site Not Found," it usually means that the site is not quite ready yet (even if GitHub _says_ the site has been published)**
        * **Wait a few minutes, and your site should be active.**
        * **Click on the link, and view your page live on GitHub Pages!**
   
