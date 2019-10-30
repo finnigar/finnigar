@@ -46,9 +46,6 @@ This instruction set will provide information on how to host your résumé to Gi
     * Numbered lists follow the same format, just using a number instead of a *. **Be sure to put a period after the number.** 
   
   You now know some of the basics to using Markdown! You may find these helpful when writing your résumé. Of course, there is much more   to Markdown than just these steps. Check out the ["More Resources"](https://github.com/finnigar/finnigar/blob/master/README.md#more-    resources) section for more information on using Markdown.
- 
-
-You now know the tools you need to get started on hosting your résumé! 
 
 ### 2. Converting Your Résumé to Markdown 
 
