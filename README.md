@@ -76,7 +76,7 @@ Now that you know the basics, you need to convert your résumé to Markdown. To 
      * Each editor might call it something slightly different, like "Export As", or "Export", or "Download".
     * Click on the .md file type
      * **Make sure that you export it as a .md file. This is the file type that will save it in Markdown format.** 
-    * Your document should now download, and should appear in your "Downloads" folder on your computer.
+    * Your document should now download to your computer.
       
     
   Your résumé is now converted to Markdown, and you are ready to host it on GitHub Pages!
