@@ -20,13 +20,13 @@ This instruction set will provide information on how to host your résumé to Gi
        * Fill out the questions on this page, and hit submit, or,  
        * Scroll to the bottom of the page, and click "skip this step."      
   5. Verify your email.
-  6. Create a new repository by entering a name for it, and clicking submit. Your repository is where your files are stored. **Note: You will have the option of choosing a public or private repository. In order to use GitHub Pages you must have a public repository**
+  6. Create a new repository by entering a name for it, and clicking submit. Your repository is where your files are stored. **Note: You will have the option of choosing a public or private repository. In order to use GitHub Pages, you must have a public repository**
   ![Create new repository](https://user-images.githubusercontent.com/57049086/67639423-6ba51880-f8bd-11e9-9bfd-d7cf7545511d.JPG)
 
    Congratulations! Your GitHub account is now set up and ready for use.
   
 #### B. Learn Markdown
- Now that you have created a GitHub account, you will need to learn Markdown! GitHub uses a tool called (GitHub Flavoured) Markdown for formatting/editing documents. Markdown is different than tools you may be familiar with, such as Word. Here are a few of the basics which you may find useful in Markdown:   
+ Now that you have created a GitHub account, you will need to learn Markdown. GitHub uses a tool called (GitHub Flavoured) Markdown for formatting/editing documents. Markdown is different than tools you may be familiar with, such as Word. Here are a few of the basics which you may find useful in Markdown:   
  1. **Headings:**   
     * There are 6 levels of headings in Markdown.   
     * To use headings, begin the line with a "#", followed by a space.  
