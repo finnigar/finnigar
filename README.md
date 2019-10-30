@@ -84,7 +84,7 @@ Now that you know the basics, you need to convert your résumé to Markdown. To 
    ![getting_started](https://user-images.githubusercontent.com/57049086/67641981-16750100-f8d5-11e9-9aea-e000a76fe9dd.JPG)
       * Click on "upload an existing file."  
       * Find where you saved your document on your computer.  
-      * Double-click on tyour résumé, and it will upload.   
+      * Double-click on your résumé, and it will upload.   
       * Confirm by clicking "commit changes."   
         * "Commit changes" is essentially GitHub's version of save.  
         * In the box, you can choose to add a message that describes what changes you made. 
