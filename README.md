@@ -47,7 +47,7 @@ This instruction set will provide information on how to host your résumé to Gi
       * Do this for each item in the list.
     * Numbered lists follow the same format, just using a number instead of a *. **Be sure to put a period after the number.**  
  
-You now know some of the basics to using Markdown! You may find these helpful when writing your résumé. Of course, there is much more to Markdown than just these steps. Check out the "More Resources" section of this document for more information on how to use Markdown.
+You now know some of the basics to using Markdown! You may find these helpful when writing your résumé. Of course, there is much more to Markdown than just these steps. Check out the ["More Resources"](https://github.com/finnigar/finnigar/blob/master/README.md#more-resources) section of this document for more information on how to use Markdown.
 
 You have now learned the tools you need to get started on hosting your résumé! 
 
@@ -59,7 +59,7 @@ Now that you know the basics, you need to convert your résumé to Markdown. To 
    * There are many free text editors that you can choose from. 
    * One recommendation for a text editor is [Atom](https://atom.io/). This is because it works well with both Markdown and Github, and it is relatively simple to use.
    * However, if you try using Atom and do not like it, or do not want to download a text editor, you do not have to use it. 
-   * See the "More Resources" section for some more recommendations of text editors.
+   * See the ["More Resources"](https://github.com/finnigar/finnigar/blob/master/README.md#more-resources) section for some more recommendations of text editors.
 
 2. **Edit your document.**
     * Now that you have chosen your text editor, you must now edit your document in Markdown format. 
