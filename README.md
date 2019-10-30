@@ -4,7 +4,6 @@
 This instruction set will provide information on how to host your résumé to GitHub Pages. They will help you understand how to use the tools that are required to do so. These tools include Markdown, GitHub, and GitHub Pages. These instructions are intended for a beginner audience. That is, you do not need any experience with the tools that will be described in these instructions.
 
 ## Prerequisites (Tools Required Before Starting)
- * Since this instruction set is intended for beginners, **no experience is required** with any of the tools that will be described in this set.
  * To complete these instructions, you must have a **résumé.**
  * **Recommendation:** Use a computer to complete these instructions. It would be difficult to complete these steps using a mobile device. 
  
